@@ -1,5 +1,7 @@
 # Airflow vs Dagster Comparison
 
+*(See also: [Dagster vs Airflow: In-depth Comparison](https://dagster.io/blog/dagster-airflow))*
+
 ## Why Dagster Exists
 
 Airflow was built in 2014 at Airbnb to orchestrate **tasks** — "run this script, then that script, on a schedule." It works well for ETL pipelines where you care about *execution order*. But as data platforms grew, teams ran into problems:
