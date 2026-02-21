@@ -210,6 +210,8 @@ __marimo__/
 airflow_setup/airflow.cfg
 airflow_setup/airflow.db
 airflow_setup/logs/
+airflow_setup/airflow.db-shm
+airflow_setup/airflow.db-wal
 airflow_setup/simple_auth_manager_passwords.json.generated
 
 # Dagster
